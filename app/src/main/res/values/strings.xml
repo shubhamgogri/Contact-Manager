@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NEW_DATA</string>
+    <string name="db_drop">DROP TABLE IF EXISTS</string>
+    <string name="database">Database</string>
+    <string name="phone_no">phone_no</string>
+    <string name="Title">Contact Manager</string>
+    <string name="phone">Phone</string>
+    <string name="name">Name</string>
+    <string name="create">Create Contact</string>
+</resources>
